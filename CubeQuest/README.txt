@@ -2,6 +2,8 @@ Cube Quest - The Game
 
 Hi I created this game called Cube Quest.
 
+Unity Play: https://play.unity.com/mg/other/webgl-builds-374277
+
 About the game: This is a 2D Game (Very short) made using unity where you can move using your keyboard keys. It calculates the score of the game based on how many times it hits the sphere and also includes a background music. (Thanks to Ed Sheeran and his amazing Music)
 
 Story of the game: Can you help the cube collect all the spheres and score 5/5?
